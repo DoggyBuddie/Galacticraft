@@ -42,9 +42,9 @@ item.titanium_axe.name=Machado de Titânio
 item.titanium_hoe.name=Enxada de Titânio
 item.titanium_shovel.name=Pá de Titânio
 item.titanium_sword.name=Espada de Titânio
-tile.asteroidsBlock.asteroid0.name=Rocha de Asteroide
-tile.asteroidsBlock.asteroid1.name=Rocha de Asteroide
-tile.asteroidsBlock.asteroid2.name=Rocha de Asteroide
+tile.asteroidsBlock.asteroid0.name=Rocha de Asteróide
+tile.asteroidsBlock.asteroid1.name=Rocha de Asteróide
+tile.asteroidsBlock.asteroid2.name=Rocha de Asteróide
 tile.asteroidsBlock.oreIron.name=Minério de Ferro
 tile.asteroidsBlock.oreIlmenite.name=Minério de Ilmenita
 tile.asteroidsBlock.oreAluminum.name=Minério de Alumínio
@@ -54,7 +54,7 @@ tile.asteroidsBlock.oreAluminum.name=Minério de Alumínio
 # ARMOR
 
 # BLOCKS
-tile.asteroidsBlock.asteroids1.name=Rocha de Asteroide
+tile.asteroidsBlock.asteroids1.name=Rocha de Asteróide
 tile.beamReflector.name=Refletor de Feixe
 tile.beamReceiver.name=Receptor de Feixe
 tile.telepadShort.name=Telebase de Curto Alcance
@@ -96,34 +96,34 @@ gui.message.destAddress.name=Target Address ##NEEDS TRANSLATE##
 gui.message.invalidAddress.name=Invalid Unique Address ##NEEDS TRANSLATE##
 gui.message.invalidTargetAddress.name=Invalid Target Address ##NEEDS TRANSLATE##
 gui.message.receivingActive.name=Receiving Active ##NEEDS TRANSLATE##
-gui.message.telepadTooFar.name=Target too far! (Max %d) ##NEEDS TRANSLATE##
-gui.message.telepadWrongDim.name=Target is in wrong dimension! ##NEEDS TRANSLATE##
-gui.message.telepadNotFound.name=Telepad Not Found! ##NEEDS TRANSLATE##
+gui.message.telepadTooFar.name=Alvo demasiado longe! (Max %d)
+gui.message.telepadWrongDim.name=O alvo está na dimensão errada!
+gui.message.telepadNotFound.name=Telebase não encontrada!
 gui.message.sendingActive.name=Sending Active ##NEEDS TRANSLATE##
 gui.message.range.name=Range: %dm ##NEEDS TRANSLATE##
-gui.message.notEnoughEnergy.name=Not Enough Energy! ##NEEDS TRANSLATE##
-gui.message.targetNoEnergy.name=Target doesn't have enough Energy! ##NEEDS TRANSLATE##
-gui.message.grapple.fail=I'll need some string if I want to throw that Grapple hook! ##NEEDS TRANSLATE##
-gui.message.astroMiner.fail=This base already has an Astro Miner! ##NEEDS TRANSLATE##
-gui.message.astroMiner1.fail=The docking area is blocked by: ##NEEDS TRANSLATE##
-gui.message.astroMiner2.fail=That would be one Astro Miner too many! ##NEEDS TRANSLATE##
-tile.treasureT3.description=Tier 3 Treasure Chests are currently unused. ##NEEDS TRANSLATE##
-tile.walkway.description=Walkways are used for decorative purposes, used for connecting blocks while maintaining a space theme. ##NEEDS TRANSLATE##
+gui.message.notEnoughEnergy.name=Energia insuficiente!
+gui.message.targetNoEnergy.name=Alvo com energia insuficiente!
+gui.message.grapple.fail=Vou precisar de algum cordel se quiser lançar o Gancho!
+gui.message.astroMiner.fail=Esta base já tem um Astrominerador!
+gui.message.astroMiner1.fail=A zona da doca está bloqueada por:
+gui.message.astroMiner2.fail=Isso seria um Astrominerador a mais!
+tile.treasureT3.description=Os Baús de Tesouro Nível 3 estão de momento inutilizados.
+tile.walkway.description=Passarelas são usadas para decoração, usadas para conetar blocos, mantendo entrtanto um ambiente espacial.
 tile.walkwayAluminumWire.description=Aluminum Wire Walkways are used for running wire underneath a fully solid walkable surface. ##NEEDS TRANSLATE##
 tile.walkwayOxygenPipe.description=Oxygen Pipe Walkways are used for running pipes underneath a fully solid walkable surface. ##NEEDS TRANSLATE##
-tile.beamReflector.description=Beam Reflectors are used to redirect energy beams from source to destination. Can be right-clicked to cycle through targets. ##NEEDS TRANSLATE##
+tile.beamReflector.description=Os Refletores de Feixo são usados para redirecionar feixes de energia desde a origem até o destino. Clique direito para delizar pelos alvos.
 tile.beamReceiver.description=Beam Receivers are connected to energy machine input and output, to transfer energy using beams. ##NEEDS TRANSLATE##
 tile.telepadShort.description=Short Range Telepads are used to transfer players and other living creatures short distances (250 Blocks) when linked to other telepads. ##NEEDS TRANSLATE##
-tile.minerBase.description=The Astro Miner Base is the docking point for an Astro Miner.  It's big ... try making a 2 x 2 x 2 cube with these. ##NEEDS TRANSLATE##
-schematic.astroMiner.name=Astro Miner ##NEEDS TRANSLATE##
+tile.minerBase.description=A Base de Astrominerador é o ponto de atracamento para o Astrominerador. É grande... Tenta fazer um cubo de 2 x 2 x 2.
+schematic.astroMiner.name=Astrominerador
 schematic.ionDrive.name=Ion Drive ##NEEDS TRANSLATE##
 
-itemGroup.GalacticraftAsteroids=Galacticraft Asteroides
+itemGroup.GalacticraftAsteroids=Asteróides Galacticraft
 
 # Schematics
 
 # Entity
-entity.SmallAsteroidGC.name=Asteroides Menores
+entity.SmallAsteroidGC.name=Asteróides Menores
 entity.GrappleHookGC.name=Gancho
 entity.Tier3RocketGC.name=Foguetão Nível 3
 entity.EntryPodAsteroids.name=Cápsula de Entrada
